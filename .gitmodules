@@ -1,0 +1,12 @@
+[submodule "book"]
+	path = book
+	url = https://github.com/rust-lang/book
+[submodule "cxx"]
+	path = cxx
+	url = https://github.com/dtolnay/cxx
+[submodule "rustc-dev-guide"]
+	path = rustc-dev-guide
+	url = https://github.com/rust-lang/rustc-dev-guide
+[submodule "mdbook"]
+	path = mdbook
+	url = https://github.com/rust-lang/mdbook

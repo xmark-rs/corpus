@@ -1,0 +1,6 @@
+books = [
+	'book/src/',
+	'cxx/book/src',
+	'mdbook/guide/src',
+	'rustc-dev-guide/src'
+]
