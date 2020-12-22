@@ -1,6 +1,6 @@
 books = [
-	'book/src/',
-	'cxx/book/src',
-	'mdbook/guide/src',
-	'rustc-dev-guide/src'
+	{ name = 'trpl', location = 'book/src/' },
+	{ location = 'cxx/book/src', name= 'cxx' },
+	{ location = 'mdbook/guide/src', name = 'mdbook' },
+	{ location = 'rustc-dev-guide/src', name = 'dev-guide' },
 ]
